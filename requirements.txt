@@ -1,0 +1,9 @@
+crewai
+crewai_tools
+exa_py
+python-dotenv
+requests
+urllib3
+httpx
+openai
+ipython
