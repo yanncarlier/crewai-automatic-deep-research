@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated artifacts
+results.dill
